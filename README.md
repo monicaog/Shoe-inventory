@@ -1,4 +1,4 @@
-finalCapstone
+
 Project Name: Shoe Inventory Management System
 
 Description: This project is a python program that allows users to manage an inventory of shoes. The program has a Shoe class that contains the attributes of each shoe object: country, code, product, cost, and quantity. The shoe objects are stored in a list called shoe_list. The program also has functions for reading data from a text file, capturing new shoe data from the user, viewing all the shoes in the list, and searching for a specific shoe based on its code.
